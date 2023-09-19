@@ -1,0 +1,25 @@
+body{background-color:
+    rgba(9, 9, 9, 0.944)
+}
+h1{
+    color: orange;
+    font-family: 'Courier New', Courier, monospace
+   
+}
+h2{
+    color: aliceblue;
+}
+    
+
+
+
+p {
+    color: orange;
+}
+button{
+    border-radius: 60px;
+    color: rgb(255, 247, 0);
+    
+}
+
+    
